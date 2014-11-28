@@ -1,0 +1,11 @@
+#sqlite3 db
+db/*.sqlite3
+
+#db schema
+db/schema.rb
+
+#logs
+log/*
+
+#temp
+tmp/*
